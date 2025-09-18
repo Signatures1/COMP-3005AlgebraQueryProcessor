@@ -1,3 +1,6 @@
+'''
+'''
+
 from data_structures import Relation
 
 def select(relation, condition):
